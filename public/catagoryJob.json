@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Data Entry",
+      "description": "Fast and accurate typing tasks.",
+      "image": "https://i.ibb.co.com/CFr1DJ2/Data-Entry.png",
+      "new_jobs_posted": "1.2k"
+    },
+    {
+      "name": "Content Writing",
+      "description": "Creative and SEO-friendly writing.",
+      "image": "https://i.ibb.co.com/q3cSGfmq/Content-Writing.png",
+      "new_jobs_posted": "980"
+    },
+    {
+      "name": "Customer Support",
+      "description": "Help customers with their queries.",
+      "image": "https://i.ibb.co.com/ym37Cw6v/Customer-Support.png",
+      "new_jobs_posted": "1.5k"
+    },
+    {
+      "name": "Sales",
+      "description": "Drive growth through sales.",
+      "image": "https://i.ibb.co.com/5gNw96bQ/Sales.png",
+      "new_jobs_posted": "870"
+    },
+    {
+      "name": "Finance",
+      "description": "Manage accounts and budgets.",
+      "image": "https://i.ibb.co.com/nMKkbQWX/Finance.png",
+      "new_jobs_posted": "640"
+    },
+    {
+      "name": "Web Developer",
+      "description": "Build responsive websites.",
+      "image": "https://i.ibb.co.com/cXr65mCD/Web-Developer.png",
+      "new_jobs_posted": "1.8k"
+    },
+    {
+      "name": "UI/UX Designer",
+      "description": "Design user-friendly interfaces.",
+      "image": "https://i.ibb.co.com/Kpfb5jv9/UI-UX-Designer.png",
+      "new_jobs_posted": "720"
+    },
+    {
+      "name": "Digital Marketing",
+      "description": "Promote brands online.",
+      "image": "https://i.ibb.co.com/0Rrhghm9/Digital-Marketing.png",
+      "new_jobs_posted": "1.1k"
+    }
+  ]
