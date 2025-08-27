@@ -1,65 +1,85 @@
-📌 JobHook
+# 🌟 JobHook  
+---
 
-JobHook হলো একটি জব হান্টিং প্ল্যাটফর্ম যেখানে ব্যবহারকারীরা সহজেই তাদের স্বপ্নের চাকরি খুঁজে নিতে পারে। এখানে জব সার্চ, অ্যাপ্লাই, ফেভারিট ও ইউজার অথেনটিকেশনসহ একাধিক ফিচার আছে।
+**JobHook** is a job-hunting platform where users can easily find their dream jobs. It includes job searching, applying, saving favorites, and secure authentication features.  
 
-🚀 Features
-🔹 Home
+---
 
-প্ল্যাটফর্মের ল্যান্ডিং পেজ।
+## 🚀 Features  
+---
 
-জব সার্চ ও সাম্প্রতিক পোস্ট করা চাকরির তথ্য দেখায়।
+### 🏠 Home  
+---  
+Landing page with a modern UI.  
+Quick overview of the platform and job highlights.  
 
-🔹 Find Job
+### 🔎 Find Job  
+---  
+- Browse all types of jobs in one place.  
+- Powerful **Search Bar** to filter jobs by:  
+  - Job Title  
+  - Experience  
+  - Location  
+  - Job Type (Full-time, Part-time, Remote, etc.)  
+- Job listings are displayed in card format.  
+- Each card includes an **Apply** button.  
+- **Favourite button** on each job card to save jobs for later.  
 
-সব ধরনের চাকরি খুঁজে পাওয়া যাবে।
+### 📌 Applying Job  
+---  
+- View all jobs the user has applied for.  
+- Track application history easily.  
 
-Search Bar আছে যেখানে নিচের অপশন দিয়ে ফিল্টার/সার্চ করা যাবে:
+### ❤️ Favourite Jobs  
+---  
+- Manage all saved/favourite jobs in one place.  
+- Apply directly from favourites.  
 
-Job Title
+### 🔐 Authentication  
+---  
+- **Login / Register system** for users.  
+- New users can sign up, existing users can log in.  
+- Users can only see their applied & favourite jobs after login.  
+- Secure session management.  
 
-Experience
+---
 
-Location
+## 🛠️ Tech Stack (Example)  
+---  
+*(Adjust according to your project)*  
 
-Job Type (Full-time, Part-time, Remote ইত্যাদি)
+- **Frontend**: React.js, TailwindCSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Authentication**: Firebase Auth / JWT  
 
-চাকরির লিস্ট কার্ড আকারে দেখানো হবে।
+---
 
-প্রতিটি জব কার্ড থেকে সরাসরি Apply করা যাবে।
+## 📸 UI Preview  
+---  
+![JobHook Preview](./preview.png)  
 
-প্রতিটি জব কার্ডে Favourite Button আছে, যেটা ক্লিক করলে জবটি ফেভারিট লিস্টে যুক্ত হবে।
+---
 
-🔹 Applying Job
+## 📂 Installation & Setup  
+---  
 
-ব্যবহারকারী যেসব চাকরিতে অ্যাপ্লাই করেছে তার লিস্ট দেখা যাবে।
+```bash
+# Clone the repository
+git clone https://github.com/username/jobhook.git
 
-অ্যাপ্লাই করা জবের ডিটেইলস এখান থেকে সহজে এক্সেস করা যাবে।
+# Go to the project folder
+cd jobhook
 
-🔹 Favourite Jobs
+# Install dependencies
+npm install
 
-ইউজার যেসব জব ফেভারিট করেছে তা এখানে সংরক্ষিত থাকবে।
+# Start development server
+npm run dev
+```
 
-সহজে পছন্দের চাকরি লিস্ট থেকে দেখা ও অ্যাপ্লাই করা যাবে।
+---
 
-🔹 Authentication
-
-Login / Register System
-
-নতুন ইউজার রেজিস্টার করতে পারবে।
-
-একবার লগইন করলে ইউজার তার নিজের অ্যাপ্লাইড ও ফেভারিট জব দেখতে পারবে।
-
-সিকিউর ইউজার সেশন ম্যানেজমেন্ট।
-
-🛠️ Tech Stack (Example)
-
-(তুমি যেভাবে বানিয়েছো তার উপর ভিত্তি করে এখানে লিখে দিতে হবে, আমি একটা Example দিলাম)
-
-Frontend: React.js, TailwindCSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: Firebase Auth / JWT
-   
+## 👨‍💻 Author  
+---  
+Developed with ❤️ by **[Your Name]**
